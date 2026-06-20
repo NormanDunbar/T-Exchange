@@ -1,0 +1,28 @@
+# Lyx files
+*.lyx~
+*.*#
+
+# LaTeX files except *.tex and arduinoLanguage.tex
+!ArduinoLibraries.tex
+!arduinoLanguage.tex
+*.aux
+*.idx
+*.log
+*.out
+*.pdf
+*.synctex.gz
+*.toc
+*.lof
+*.lot
+*.ilg
+*.bbl
+*.ind
+*.thm
+
+# The generated PDF file will be added as a release.
+# ArduinoLibraries.pdf
+
+# My TODO Lister.
+todo_lister.sh
+
+
